@@ -2,7 +2,8 @@
 android comic reader writted on c++ and kotlin by using libarchive as base for cbr, cbz and pdf  that decompress files to ram by using libarchive
 
 # project phases
-the project has 4 phases 
+the project has 4 phases.
+
 **1. Engine** the file that makes possible to read the files
 
 **2. Try the engine on kitty terminal** after create the engine do a test of it by using kitty img protocols and base64
