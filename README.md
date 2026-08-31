@@ -20,5 +20,5 @@ the project is currently on phase 1.
 
 The engine will be approximately in one or three weeks because I'm so lazy and I need to learn more about pointers and malloc also I want to finish watching X-men'97.
 
-The program will be finished in three months because it is a very big from the place that I'm right now mostly because I have approximately 2 months on C++.
+The program will be finished in three months or more because it is a very big from the place that I'm right now mostly because I have approximately 2 months on C++.
 But anyway I want to do this program even though I know it is going to be very complex and stressful for me
