@@ -1,8 +1,8 @@
 # Horus-android-comic-reader
-android comic reader writted on c++ and kotlin by using libarchive as base for cbr, cbz and pdf  that decompress files to ram by using libarchive
+android comic reader writted on c++ and kotlin by using libarchive as base for cbr, cbz and pdf that decompress files to ram by using libarchive
 
 <img src="images.jpg" width="25%" align="center" />
-i can't show a picture of the program cause i'm just starting on the project but my idea is to make it look like the spidey-tracker from the movie spiderman brand new day
+i can't show a picture of the program 'cause i'm just starting on the project but my idea is to make it look like the spidey-tracker from Spider-Man Brand New Day movie
 
 # project phases
 the project has 4 phases.
@@ -18,7 +18,7 @@ the project has 4 phases.
 # Current project status
 the project is currently on phase 1.
 
-The engine will be approximately in one or three weeks because I'm so lazy and I need to learn more about pointers and malloc also I want to finish watching X-men'97.
+The engine will be approximately in one or three weeks 'cause I'm so lazy and I need to learn more about pointers and malloc also I want to finish watching X-men'97.
 
-The program will be finished in three months or more because it is a very big from the place that I'm right now mostly because I have approximately 2 months on C++.
-But anyway I want to do this program even though I know it is going to be very complex and stressful for me
+The program will be finished in three months or more 'cause it's a very big from the place that I'm right now mostly because I have approximately 2 months on C++.
+But anyway I want to do this program even though I know it's going to be very complex and stressful for me
