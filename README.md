@@ -7,13 +7,18 @@ i can't show a picture of the program cause i'm just starting on the project but
 # project phases
 the project has 4 phases.
 
-**1. Engine** the file that makes possible to read the files
+**1. Engine.** the file that makes possible to read the files
 
-**2. Try the engine on kitty terminal** after create the engine do a test of it by using kitty img protocols and base64
+**2. Try the engine on kitty terminal.** after create the engine do a test of it by using kitty img protocols and base64
 
-**3. adapting the motor to jni** just adapt the motor to work with jni and kotlin
+**3. adapting the motor to JNI.** just adapt the motor to work with jni and kotlin
 
-**4. Make a goodg raphical user interface (GUI)** just create the look of the app
+**4. Make a good graphical user interface (GUI).** just create the look of the app
 
 # Current project status
-the project is on phase 1.
+the project is currently on phase 1.
+
+The engine will be approximately in one or three weeks because I'm so lazy and I need to learn more about pointers and malloc also I want to finish watching X-men'97.
+
+The program will be finished in three months because it is a very big from the place that I'm right now mostly because I have approximately 2 months on C++.
+But anyway I want to do this program even though I know it is going to be very complex and stressful for me
