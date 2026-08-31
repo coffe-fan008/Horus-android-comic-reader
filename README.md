@@ -1,7 +1,7 @@
 # Horus-android-comic-reader
 android comic reader writted on c++ and kotlin by using libarchive as base for cbr, cbz and pdf  that decompress files to ram by using libarchive
 
-<img src="images.jpg" width="50%" align="center" />
+<img src="images.jpg" width="25%" align="center" />
 i can't show a picture of the program cause i'm just starting on the project but my idea is to make it look like the spidey-tracker from the movie spiderman brand new day
 
 # project phases
