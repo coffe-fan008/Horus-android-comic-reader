@@ -4,6 +4,8 @@ android comic reader writted on c++ and kotlin by using libarchive as base for c
 # About pause
 the project is on pause cause i just enter on third year of secondary school (idk know if it's written correctly but on spanish is on tercero de secundaria) and the teachers gave me a bit of homework and i don't have nothing of the project code because I'm so Lazy and tiktok Made me hipnotized so in one or two weeks i Will continue with the code besides I'm going to use less Tiktok 
 
+# general info 
+
 <img src="images.jpg" width="25%" align="center" />
 i can't show a picture of the program 'cause i'm just starting on the project but my idea is to make it look like the spidey-tracker from Spider-Man Brand New Day movie
 
